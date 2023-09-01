@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host":"localhost",
+    "post": 3386,
+    "username":"root",
+    "password": "root",
+    "database":"nameDTB",
+    "entities":["dist/entities/*.js"],
+    "synchronize":true
+}
